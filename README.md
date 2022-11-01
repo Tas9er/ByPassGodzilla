@@ -42,7 +42,7 @@ MD5 HASH:69342f321f49dbb1a3912a87731cbf5e
 
 命令行输入:ByPassGodzilla.exe
 
-![01](\image\01.jpg)
+![01](/image/01.jpg)
 
 目前支持格式为常见WebShell全版本格式:ASP,ASP.NET,ASMX,PHP,JSP,JSPX
 
@@ -50,7 +50,7 @@ MD5 HASH:69342f321f49dbb1a3912a87731cbf5e
 
 默认密码为**Tas9er**，密钥会随机生成，在正常结束生成后，系统会提示密码，密钥，有效载荷，加密器，我们以生成ASP免杀WebShell为例，输入“1”后，系统将会提示信息：密码:Tas9er 密钥:Ql5RP3cL3Jyau 有效载荷:AspDynamicPayload 加密器:ASP_XOR_BASE64，生成的文件在当前目录下。
 
-![02](\image\02.jpg)
+![02](/image/02.jpg)
 
 
 
@@ -60,7 +60,7 @@ MD5 HASH:69342f321f49dbb1a3912a87731cbf5e
 
 ##### **腾讯电脑管家:**
 
-![](\image\03.jpg)
+![](/image/03.jpg)
 
 ```
 【扫描信息】
@@ -125,7 +125,7 @@ C:\Users\Administrator\Desktop\demo
 
 ##### 360安全卫士:
 
-![](\image\05.jpg)
+![](/image/05.jpg)
 
 ```
 360木马查杀扫描日志
@@ -168,37 +168,37 @@ d:\d盾
 
 ASP:
 
-![06](\image\06.jpg)
+![06](/image/06.jpg)
 
 
 
 ASMX:
 
-![07](\image\07.jpg)
+![07](/image/07.jpg)
 
 
 
 ASP.NET:
 
-![08](\image\08.jpg)
+![08](/image/08.jpg)
 
 
 
 PHP:
 
-![09](\image\09.jpg)
+![09](/image/09.jpg)
 
 
 
 JSP:
 
-![10](\image\10.jpg)
+![10](/image/10.jpg)
 
 
 
 JSPX:
 
-![11](\image\11.jpg)
+![11](/image/11.jpg)
 
 
 
@@ -206,37 +206,37 @@ JSPX:
 
 ASP:
 
-![12](\image\12.jpg)
+![12](/image/12.jpg)
 
 
 
 ASPX：
 
-![13](\image\13.jpg)
+![13](/image/13.jpg)
 
 ASMX：
 
-![14](\image\14.jpg)
+![14](/image/14.jpg)
 
 
 
 PHP:
 
-![15](\image\15.jpg)
+![15](/image/15.jpg)
 
 
 
 JSP:
 
-![16](\image\16.jpg)
+![16](/image/16.jpg)
 
 
 
 JSPX:
 
-![17](\image\17.jpg)
+![17](/image/17.jpg)
 
 #### :part_alternation_mark:更新日志
 
-[2022.11.2]	ByPassGodzilla开发测试完毕
+[2022.11.1]	ByPassGodzilla开发测试完毕
 
